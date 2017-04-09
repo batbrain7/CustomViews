@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e50b03cff55dcd27150c3b6ca8b97be006c3fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/3412485f1b2a7c979bea951eb9ec1dacef076fb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85ea65b9e9451b517c26a4d3135e6ab373ae6032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/36a1e635cc4d7e5823c1608fb297bfbfa31ac734/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b14a9c9de3dd9c8b59bb8b5ced3c02ad01bd264/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_e7f1d03e2e69ec960b22dbefe5a3f3c9c144f437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/d22f4214966abca9f61cbdb2d95cd3d425a6a25c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0167a355619d088ac249340436e79115ebb2b8be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/b8f5faf98a855c9f5659849396f37f42792cd3a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_226cdc3c64e878c9d16df45b5517b6dd37762ebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/258fb75e9e1bc125c4f641fd109df8b4259a89c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11e83d999e60b37b73409f8a1c975b1f14c6a0ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/1f3bc85a056b3c15ea05c5f24d8790789ab330d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a91dab6043a992e0ecd9cea7daa90a7fc36e257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/5171ef4abc5b62dfb5d236f2ab55fdee28363029/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c3e942f65ade7378f224823e37ae158b106d9e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/ff805be4f2f9e6b54c8727aeb8a93545931ccee2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e335f7b47e0bcc5d605d3a0062fb7938c14fc170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6754b5b481d4ff8bca4f949e557e96443d0c4bf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/1c5d1ae348201fdc786e0668b840e7fb7e03dfe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f650af323d79548c0de767dd6d165eb37558e8ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/ca4b0e125fbc3efd67f83ac5fa802ac106548c86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5949a0bff435786b637f5aa447759b2d896aaea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/2ff57802b35ee0efd3faff8cae624aef91a6fea5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebd0948735d3d0e9f8f5ca2d5afe4b8933a29c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/47574af18bc27799b40b4da2591e4a63859255a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0005ece333e8711cf3376d942e0ffaf243a5e13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18bccdc80c3b469b4c589c05cacc53708878925b">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bbdde4ea1c225bdd91dcf0717512c52c651b14d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/9a13a87ef9d0b522c8ffa75364910220b5fc0d09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8478b4f2c36ef6aaadd9bd6715a0d1589d4b7928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mohitkumar/.android/build-cache/22def0e5abe010486dfe09f7055532889f66a89d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/CustomViewApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f0d79b3f65d1318728f2e79a77aef6f4ecdef36/classes.dex" />
+    </item>
+
+</items>
