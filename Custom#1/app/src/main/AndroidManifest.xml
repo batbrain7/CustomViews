@@ -16,7 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Profile"></activity>
+        <activity android:name=".Profile" />
+        <activity android:name=".Layout4" />
+        <activity android:name=".AnimLog" />
+        <activity android:name=".LOgin_2"
+            android:theme="@style/AppTheme1"
+            ></activity>
     </application>
 
 </manifest>

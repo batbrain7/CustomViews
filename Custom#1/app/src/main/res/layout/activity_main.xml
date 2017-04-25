@@ -14,10 +14,12 @@
         android:layout_marginTop="90dp"
         >
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Create an Account"
+            android:layout_gravity="center"
             android:textColor="#fff"
+            android:id="@+id/cr_acc"
             android:layout_marginBottom="20dp"
             android:textStyle="normal"
             android:textSize="20dp"
@@ -84,7 +86,6 @@
             android:text="sign up"
             android:alpha="0.5"
             android:id="@+id/signup_button"
-            android:onClick="SignUp"
             android:textColor="#fff"
             android:layout_margin="20dp"
             />
