@@ -2,6 +2,9 @@
 
 This Repository consists of all the Custom Layouts,themes and animations created by me in Android Studio.
 
+Login Screen : </br>
+![ezgif com-video-to-gif](https://cloud.githubusercontent.com/assets/16780496/25385930/317a393e-29e3-11e7-881a-c513c50b3293.gif)
+
 Sign Up Page :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ODK Collect UI :  
 
 
@@ -9,3 +12,5 @@ Sign Up Page :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbs
 Profile Page : 
 
 ![screenshot_20170409-170413](https://cloud.githubusercontent.com/assets/16780496/24838140/b237009c-1d5f-11e7-8c13-dd345f87430a.png)
+
+
